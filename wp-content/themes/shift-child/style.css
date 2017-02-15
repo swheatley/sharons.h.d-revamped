@@ -1,0 +1,25 @@
+/*
+Theme Name: Shift Child
+Theme URI: http://localhost:8888/wordpress/shift-child/
+Description: Shift Child Theme
+Author: Shaylee Hansen
+Author URI: http://localhost:8888/wordpress/
+Template: Shift
+Version: 1.07
+Text Domain: shift-child
+
+*/
+
+.site-header,
+.menu-primary-container{
+  background: #1A1A1A;
+}
+.page_item > a:link{
+  color: white;
+}
+.social-media-icons{
+    color: white;
+}
+.social-media-icons > li >a:link{
+  color: white;
+}
