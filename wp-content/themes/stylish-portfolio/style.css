@@ -5,3 +5,18 @@ Description: Bootstrap Stylish Portfolio Theme converted to Wordpress
 Version: 0.0.1
 Tags: bootstrap
 */
+
+.navbar{
+  background: #262626;
+  color: white;
+}
+.navbar-light .navbar-nav .nav-link{
+  color: rgb(255,255,255);
+}
+.nav-link{
+  color: white;
+}
+form{
+  float: right;
+  padding-top: 1%;
+}
